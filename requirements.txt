@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+wikipedia
+pyjokes
+pywhatkit
+pyautogui
+requests
